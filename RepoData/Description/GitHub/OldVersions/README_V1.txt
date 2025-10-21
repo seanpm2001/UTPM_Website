@@ -1,0 +1,1 @@
+🔒️🌐️ The official source repository for the website of the UTPM (UnTrusted Platform Modules) project, an open-source, reverse-engineered TPM chip emulator, focusing on providing TPM support on devices without being malicious. It is also a movement against TPM.
